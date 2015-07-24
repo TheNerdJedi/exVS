@@ -1,0 +1,11 @@
+C:\Users\Russell\Documents\GitHub\exVS\a\a\bin\Debug\a.exe.config
+C:\Users\Russell\Documents\GitHub\exVS\a\a\bin\Debug\a.exe
+C:\Users\Russell\Documents\GitHub\exVS\a\a\bin\Debug\a.pdb
+C:\Users\Russell\Documents\GitHub\exVS\a\a\obj\Debug\a.exe
+C:\Users\Russell\Documents\GitHub\exVS\a\a\obj\Debug\a.pdb
+C:\Users\Russell\Documents\GitHub\exVS\classin_session\a\bin\Debug\a.exe.config
+C:\Users\Russell\Documents\GitHub\exVS\classin_session\a\obj\Debug\a.exe
+C:\Users\Russell\Documents\GitHub\exVS\classin_session\a\obj\Debug\a.pdb
+C:\Users\Russell\Documents\GitHub\exVS\classin_session\class\bin\Debug\a.exe.config
+C:\Users\Russell\Documents\GitHub\exVS\classin_session\class\obj\Debug\a.exe
+C:\Users\Russell\Documents\GitHub\exVS\classin_session\class\obj\Debug\a.pdb
